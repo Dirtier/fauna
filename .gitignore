@@ -166,7 +166,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-.xlsx
+VAWV-Total.xlsx
 
 
 # End of https://www.gitignore.io/api/python,pycharm
