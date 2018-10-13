@@ -166,6 +166,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Cave Fauna excel data
 VAWV-Total.xlsx
 
 
